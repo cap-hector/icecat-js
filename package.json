@@ -1,6 +1,6 @@
 {
   "name": "icecat-js",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "Icecat API - Find product description with EAN, UPC or GTIN-13.",
   "main": "index.js",
   "scripts": {
